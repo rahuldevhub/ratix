@@ -1,0 +1,22 @@
+.supportsystem-all-col{
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    
+}
+.supportsystem-col{
+    /* border: solid 1px rebeccapurple; */
+    text-align: center;
+    padding: 4rem;
+    
+}
+
+.supportsystem-description{
+
+
+    /* font-style: italic; */
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+    font-size: 1.5em;
+    text-align: center;
+}
